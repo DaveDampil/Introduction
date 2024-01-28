@@ -10,18 +10,18 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
       <div style={{ textAlign: 'center' }}>
-      As a student in computer engineering, I've consistently marveled at the wonders of technology. 
-      My interests include engaging in online gaming, playing badminton, and watching movies. 
-      I chose to pursue computer engineering with the goal of delving deeper into the realm of technology and expanding my knowledge.
-      In the next five years, I envision myself employed in a company, diligently acquiring new skills to remain dedicated to my chosen career path.
+      My age is 23 and I live in Malolos, Bulacan. 
+      My hobbies are: gaming, watching anything, eating, and sleeping.
+      I took Computer Engineering because I wanted to design my very own computer.
+      I still didn't know what I see myself in 5 years.
       </div>
       <br />
       <div style={{ textAlign: 'center' }}>
         <strong>EXPECTATIONS IN THIS SUBJECT:</strong>
       <ul style={{ listStyleType: 'disc', textAlign: 'left', marginLeft: '2em' }}>
-          <li>To gain more knowledge about this subject. </li>
-          <li>To gain experience for using next.js. </li>
-          <li>To learn on how to create websites using next.js.</li>
+          <li>It is easy. </li>
+          <li>Students should be properly guided with their concerns </li>
+          <li>Concepts should be concise.</li>
         </ul>
       </div>
       </section>
